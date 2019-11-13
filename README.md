@@ -1,4 +1,4 @@
-Yii 2 Usuario Extension
+Yii 2 Usuario Extension customized by santilin
 =======================
 
 [![Documentation Status](https://readthedocs.org/projects/yii2-usuario/badge/?version=latest)](http://yii2-usuario.readthedocs.io/en/latest/?badge=latest)
